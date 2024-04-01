@@ -1,7 +1,7 @@
 # SISTEMAS OPERACIONAIS
 Trabalho sobre chamadas de sistema da matéria de Sistemas Operacionais do 3º Período de Análise e Desenvolvimento de Sistemas 
 
-#Chamadas:
+# Chamadas:
 
 DATE:
 A chamada *date* retorna o tempo atual em segundos, e também printa a data( dia, mês e ano) e a hora. O código também faz as checagens básicas de erro e sucesso.
